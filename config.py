@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "12850056")
 
 API_HASH = os.environ.get("API_HASH", "15564ec4a1a2cbef87c99a9aa9e40b34")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", ""6656522620:AAGLN6e3rYujnB_T7IhWJt7emZj5biv63mE") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6656522620:AAGLN6e3rYujnB_T7IhWJt7emZj5biv63mE") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "krbackup") 
 
